@@ -40,19 +40,9 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Bytelion',
+        description: 'Backend Developer, October 2017 - Present',
+        link: 'https://www.bytelion.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +50,11 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'C++, Python, Unreal Engine, GameMaker, PostgreSQL, Ruby on Rails',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
-      },
-      {
-        name: 'Other',
-        description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+        name: 'Software',
+        description: 'Microsoft Office, Google Products and Services, Slack, GitHub, Atom, Postman, JIRA, Confluence, AWS',
       },
     ],
   },
