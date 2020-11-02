@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `http://sethdavissoftware.us/`,
     // Your Name
     name: 'Seth Davis',
     // Main Site Title
     title: `Seth Davis | Game Developer/Designer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Backend Developer with experience in Game Design, Web-app Development, and Database Management.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    //author: `@rfitzio`,
     // Optional: Github account URL
     github: `https://github.com/SethHDavis99`,
     // Optional: LinkedIn account URL
@@ -19,22 +19,22 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Midnight Monorail',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A fast-paced track building strategy game built in GameMaker Studio. Winner of the GMTK 2020 Game Jam!',
+        link: 'https://default-frogs.itch.io/midnight-monorail',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Binary Bubbles',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Puzzle-platformer with the goal of moving code bubbles between objects to solve puzzles!',
+        link: 'https://default-frogs.itch.io/binary-bubbles',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Argo Navigation',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Navigation app for boaters looking to share info, find landmarks, and enjoy a community all on the open water.',
+        link: 'https://www.bytelion.com/portfolio/argo-navigation/',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
