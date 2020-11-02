@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'Seth Davis',
     // Main Site Title
-    title: `Seth Davis | Game Developer/Designer`,
+    title: `Seth Davis | Backend Developer`,
     // Description that goes under your name in main bio
     description: `Backend Developer with experience in Game Design, Web-app Development, and Database Management.`,
     // Optional: Twitter account handle
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/seth-h-davis/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Hello! My name is Seth Davis, and I've been writing software and games since High School, beginning work at Bytelion in my senior year. In Bytelion I found myself comfortable in the developer role, as I worked with a variety of teams in a variety of projects. I learned languages like Ruby on Rails, and how to manage entire PostgreSQL databases like the massive database attractions within Argo. After becoming accepted to UMBC, I found myself involved in the UMBC Game Developer’s Club, where I was able to realize my passion for game development. Working with a team, I completed my first public game: Binary Bubbles. Now after joining IGDA, and continuing to expand my knowledge of software and game development, there is no more perfect industry for me other than software!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
