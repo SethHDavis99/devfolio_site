@@ -17,7 +17,7 @@ module.exports = {
     // Content of the About Me section
     about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    games: [
+    projects: [
       {
         name: 'Midnight Monorail',
         description:
@@ -31,24 +31,10 @@ module.exports = {
         link: 'https://default-frogs.itch.io/binary-bubbles',
       },
       {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-    ],
-    web_apps: [
-      {
         name: 'Argo Navigation',
         description:
           'Navigation app for boaters looking to share info, find landmarks, and enjoy a community all on the open water.',
         link: 'https://www.bytelion.com/portfolio/argo-navigation/',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
