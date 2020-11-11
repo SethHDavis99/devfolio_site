@@ -48,7 +48,7 @@ sethhdavis99@gmail.com | 443-244-5792`,
     experience: [
       {
         name: 'Bytelion',
-        description: 'Backend Developer, October 2017 - Present',
+        description: 'Backend Developer, October 2017 - August 2020',
         link: 'https://www.bytelion.com/',
       },
     ],
