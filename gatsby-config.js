@@ -8,8 +8,7 @@ module.exports = {
     title: `Seth Davis | Backend Developer`,
     // Description that goes under your name in main bio
     description: `Backend Developer with experience in Game Design, Web-app Development, and Database Management.
-sethhdavis99@gmail.com
-443-244-5792`,
+sethhdavis99@gmail.com | 443-244-5792`,
     // Optional: Twitter account handle
     //author: `@rfitzio`,
     // Optional: Github account URL
@@ -20,6 +19,12 @@ sethhdavis99@gmail.com
     about: `Hello! My name is Seth Davis, and I've been writing software and games since High School, beginning work at Bytelion in my senior year. In Bytelion I found myself comfortable in the developer role, as I worked with a variety of teams in a variety of projects. I learned languages like Ruby on Rails, and how to manage entire PostgreSQL databases like the massive database attractions within Argo. After becoming accepted to UMBC, I found myself involved in the UMBC Game Developer’s Club, where I was able to realize my passion for game development. Working with a team, I completed my first public game: Binary Bubbles. Now after joining IGDA, and continuing to expand my knowledge of software and game development, there is no more perfect industry for me other than software!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
+      {
+        name: 'Ele-Mental',
+        description:
+          'A mind-bending first-person puzzle game created in Unreal Engine. Use different elements to effect to world around you in unique ways!',
+        link: 'https://umbcgamedev.com/games.html#2020-ele-mental',
+      },
       {
         name: 'Midnight Monorail',
         description:
