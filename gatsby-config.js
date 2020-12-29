@@ -23,7 +23,7 @@ sethhdavis99@gmail.com | 443-244-5792`,
         name: 'Ele-Mental',
         description:
           'A mind-bending first-person puzzle game created in Unreal Engine. Use different elements to effect to world around you in unique ways!',
-        link: 'https://umbcgamedev.com/games.html#2020-ele-mental',
+        link: 'https://default-frogs.itch.io/ele-mental',
       },
       {
         name: 'Midnight Monorail',
