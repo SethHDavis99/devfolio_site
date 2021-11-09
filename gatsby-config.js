@@ -20,7 +20,7 @@ sethhdavis99@gmail.com | 443-244-5792`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Midnight Suns',
+        name: 'Marvel\'s Midnight Suns',
         description:
           'Immersive personal story as you battle corrupted versions of iconic Marvel characters and rise up against the demonic forces of Lilith to stop her reviving her evil master, Chthon.',
         link: 'https://midnightsuns.2k.com/',
@@ -61,12 +61,12 @@ sethhdavis99@gmail.com | 443-244-5792`,
       {
         name: 'Firaxis Games',
         description: 'Engineering Intern, May 2021 - August 2021',
-        link: 'https://www.bytelion.com/',
+        link: 'https://firaxis.com/',
       },
       {
         name: 'Bytelion',
         description: 'Backend Developer, October 2017 - August 2020',
-        link: 'https://firaxis.com/',
+        link: 'https://www.bytelion.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
