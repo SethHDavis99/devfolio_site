@@ -20,6 +20,18 @@ sethhdavis99@gmail.com | 443-244-5792`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
+        name: 'Midnight Suns',
+        description:
+          'Immersive personal story as you battle corrupted versions of iconic Marvel characters and rise up against the demonic forces of Lilith to stop her reviving her evil master, Chthon.',
+        link: 'https://midnightsuns.2k.com/',
+      },
+      {
+        name: 'Untitled Karting Game',
+        description:
+          'A simple kart racer utilizing Unreal Engine 4\'s built in online functionality to allow players to race together across the internet!',
+        link: 'https://default-frogs.itch.io/karting-game',
+      },
+      {
         name: 'Ele-Mental',
         description:
           'A mind-bending first-person puzzle game created in Unreal Engine. Use different elements to effect to world around you in unique ways!',
@@ -47,9 +59,14 @@ sethhdavis99@gmail.com | 443-244-5792`,
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Firaxis Games',
+        description: 'Engineering Intern, May 2021 - August 2021',
+        link: 'https://www.bytelion.com/',
+      },
+      {
         name: 'Bytelion',
         description: 'Backend Developer, October 2017 - August 2020',
-        link: 'https://www.bytelion.com/',
+        link: 'https://firaxis.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
