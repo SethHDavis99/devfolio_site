@@ -60,7 +60,7 @@ sethhdavis99@gmail.com | 443-244-5792`,
     experience: [
       {
         name: 'Firaxis Games',
-        description: 'Engineering Intern, May 2021 - August 2021',
+        description: 'JR Gameplay Engineer, May 2021 - Present',
         link: 'https://firaxis.com/',
       },
       {
