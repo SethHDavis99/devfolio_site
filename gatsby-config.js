@@ -26,6 +26,12 @@ sethhdavis99@gmail.com | 443-244-5792`,
         link: 'https://midnightsuns.2k.com/',
       },
       {
+        name: 'Lasso Lassie',
+        description:
+          'Ongoing solo project developed using GODOT. An action beat em' up developed, engineered, and designed solely by myself.',
+        link: 'https://default-frog.itch.io/lasso-lassie',
+      },
+      {
         name: 'Untitled Karting Game',
         description:
           'A simple kart racer utilizing Unreal Engine 4\'s built in online functionality to allow players to race together across the internet!',
