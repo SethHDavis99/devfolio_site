@@ -28,7 +28,7 @@ sethhdavis99@gmail.com | 443-244-5792`,
       {
         name: 'Lasso Lassie',
         description:
-          'Ongoing solo project developed using GODOT. An action beat em' up developed, engineered, and designed solely by myself.',
+          'Ongoing solo project developed using GODOT. An action beat em\' up developed, engineered, and designed solely by myself.',
         link: 'https://default-frog.itch.io/lasso-lassie',
       },
       {
