@@ -11,12 +11,11 @@ module.exports = {
 sethhdavis99@gmail.com | 443-244-5792`,
     // Optional: Twitter account handle
     //author: `@rfitzio`,
-    // Optional: Github account URL
     github: `https://github.com/SethHDavis99`,
-    // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/seth-h-davis/`,
+    itch: `https://default-frog.itch.io/`,
     // Content of the About Me section
-    about: `Hello! My name is Seth Davis, and I've been writing software and games since High School, beginning work at Bytelion in my senior year. In Bytelion I found myself comfortable in the developer role, as I worked with a variety of teams in a variety of projects. I learned languages like Ruby on Rails, and how to manage entire PostgreSQL databases like the massive database attractions within Argo. After becoming accepted to UMBC, I found myself involved in the UMBC Game Developer’s Club, where I was able to realize my passion for game development. Working with a team, I completed my first public game: Binary Bubbles. Now after joining IGDA, and continuing to expand my knowledge of software and game development, there is no more perfect industry for me other than software!`,
+    about: `Gameplay Engineer with 5+ years of professional game development experience, specializing in Unreal Engine 5. Advanced C++ proficiency and hands-on experience with designing and implementing critical gameplay systems, custom GAS-based frameworks, data-driven architectures, and designer-facing tools. Contributed to the shipped AAA title Marvel’s Midnight Suns and independently owned the mission system for an additional unannounced AAA Firaxis project.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -26,34 +25,22 @@ sethhdavis99@gmail.com | 443-244-5792`,
         link: 'https://midnightsuns.2k.com/',
       },
       {
+        name: '12 Games 12 Months',
+        description:
+          'A collection of games I created during the year 2025. I created, designed, and programmed all 12 games within the span of one year.',
+        link: 'https://itch.io/c/5401040/12-games-12-months-challenge',
+      },
+      {
         name: 'Lasso Lassie',
         description:
           'Ongoing solo project developed using GODOT. An action beat em\' up developed, engineered, and designed solely by myself.',
         link: 'https://default-frog.itch.io/lasso-lassie',
       },
       {
-        name: 'Untitled Karting Game',
-        description:
-          'A simple kart racer utilizing Unreal Engine 4\'s built in online functionality to allow players to race together across the internet!',
-        link: 'https://default-frogs.itch.io/karting-game',
-      },
-      {
-        name: 'Ele-Mental',
-        description:
-          'A mind-bending first-person puzzle game created in Unreal Engine. Use different elements to effect to world around you in unique ways!',
-        link: 'https://default-frogs.itch.io/ele-mental',
-      },
-      {
         name: 'Midnight Monorail',
         description:
           'A fast-paced track building strategy game built in GameMaker Studio. Winner of the GMTK 2020 Game Jam!',
         link: 'https://default-frogs.itch.io/midnight-monorail',
-      },
-      {
-        name: 'Binary Bubbles',
-        description:
-          'Puzzle-platformer with the goal of moving code bubbles between objects to solve puzzles!',
-        link: 'https://default-frogs.itch.io/binary-bubbles',
       },
       {
         name: 'Argo Navigation',
