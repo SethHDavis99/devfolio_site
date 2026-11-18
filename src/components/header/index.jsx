@@ -21,6 +21,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
   const twitter = get(metadata, 'author', false);
   const github = get(metadata, 'github', false);
   const linkedin = get(metadata, 'linkedin', false);
+  const itch = get(metadata, 'itch', false);
 
   return (
     <div className={classes.wrapper}>
@@ -56,6 +57,13 @@ const Header = ({ metadata = {}, noBlog = false }) => {
             <li className={classes.item}>
               <a className={classes.link} href={linkedin}>
                 LinkedIn
+              </a>
+            </li>
+          )}
+          {itch && (
+            <li className={classes.item}>
+              <a className={classes.link} href={itch}>
+                Itch.io
               </a>
             </li>
           )}
