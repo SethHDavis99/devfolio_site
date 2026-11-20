@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Seth Davis | Backend Developer`,
     // Description that goes under your name in main bio
-    description: `Gameplay Engineer | Technical Game Design.
+    description: `Gameplay Engineer | Technical Game Design.\n
 sethhdavis99@gmail.com | 443-244-5792`,
     // Optional: Twitter account handle
     //author: `@rfitzio`,
